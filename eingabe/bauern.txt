@@ -7,7 +7,7 @@ Kohlrabi
 Banane
 Zwiebeln
 Fenchel
-Kirchen
+Kirschen
 Zucchini
 RoteBeete
 Kaki
@@ -18,9 +18,9 @@ Apfel Kohlrabi Paprika
 Banane Kohlrabi Paprika
 Banane Kohlrabi Zwiebeln
 Banane Fenchel Zwiebeln
-Kirche Fenchel Zwiebeln
-Kirche Fenchel Zucchini
-Kirche RoteBeete Zucchini
+Kirschen Fenchel Zwiebeln
+Kirschen Fenchel Zucchini
+Kirschen RoteBeete Zucchini
 Kaki RoteBeete Zucchini
 Kaki RoteBeete Tomaten
 Kaki Kartoffeln Tomaten
