@@ -1,0 +1,26 @@
+12
+Apfel
+Kartoffeln
+Tomaten
+Paprika
+Kohlrabi
+Banane
+Zwiebeln
+Fenchel
+Kirchen
+Zucchini
+RoteBeete
+Kaki
+12
+Apfel Kartoffeln Tomaten
+Apfel Kartoffeln Paprika
+Apfel Kohlrabi Paprika
+Banane Kohlrabi Paprika
+Banane Kohlrabi Zwiebeln
+Banane Fenchel Zwiebeln
+Kirche Fenchel Zwiebeln
+Kirche Fenchel Zucchini
+Kirche RoteBeete Zucchini
+Kaki RoteBeete Zucchini
+Kaki RoteBeete Tomaten
+Kaki Kartoffeln Tomaten
